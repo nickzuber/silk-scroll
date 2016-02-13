@@ -1,12 +1,12 @@
 {
   "name": "silk-scroll",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cross browser responsive smooth scrolling for entire web applications.",
-  "main": "bin/silk-scroll.min.js",
+  "main": "src/silk-scroll.js",
   "scripts": {
     "build": "gulp",
-    "test": "node tests/*.js",
-    "ci": "node tests/*.js"
+    "test": "node unit/test.js",
+    "ci": "node unit/test.js"
   },
   "repository": {
     "type": "git",

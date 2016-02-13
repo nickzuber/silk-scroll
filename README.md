@@ -18,11 +18,19 @@ npm install silk-scroll --save
 
 ## Usage
 
-To get the smooth scrolling ability on your webpage, all you need to do is include the [minified file of the latest version](https://github.com/nickzuber/silk-scroll/blob/master/bin/silk-scroll.min.js) in your application.
+To get the smooth scrolling ability on your webpage, all you need to do is include the [minified file of the latest version](https://github.com/nickzuber/silk-scroll/blob/master/bin/silk-scroll.min.js) in your application and then activate `SilkScroll`:
+
+```javascript
+// SilkScroll will already be a global object
+SilkScroll.active();
+```
 
 If you have silk-scroll installed on your Node application, you can use it on the server in Node like so:
+
 ```javascript
-require('silk-scroll');
+const SilkScroll = require('silk-scroll');
+
+SilkScroll.active();
 ```
 
 ## License

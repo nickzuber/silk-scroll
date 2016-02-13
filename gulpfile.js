@@ -23,7 +23,8 @@ gulp.task('dispatch', function(){
         extname: '.min.js'
     }))
     .pipe(header(banner, {pkg: pkg}))
-    .pipe(gulp.dest('bin'));
+    .pipe(gulp.dest('bin'))
+    .pipe(gulp.dest('tests/scripts'));
 });
 
 // Set default to dispatch
