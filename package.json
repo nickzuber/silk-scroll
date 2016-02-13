@@ -1,7 +1,7 @@
 {
   "name": "silk-scroll",
   "version": "1.0.0",
-  "description": "Cross browser responsive smooth scrolling for entire web pages.",
+  "description": "Cross browser responsive smooth scrolling for entire web applications.",
   "main": "bin/",
   "scripts": {
     "build": "gulp"
