@@ -1,5 +1,5 @@
 # [silk-scroll.js](https://github.com/nickzuber/silk-scroll) 
-[![npm version](https://badge.fury.io/js/silk-scroll.svg)](https://badge.fury.io/js/silk-scroll)
+[![Build Status](https://travis-ci.org/nickzuber/silk-scroll.svg?branch=master)](https://travis-ci.org/nickzuber/silk-scroll) [![npm version](https://badge.fury.io/js/silk-scroll.svg)](https://badge.fury.io/js/silk-scroll)
 
 Cross browser responsive smooth scrolling for entire web applications.
 
