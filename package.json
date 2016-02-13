@@ -4,7 +4,9 @@
   "description": "Cross browser responsive smooth scrolling for entire web applications.",
   "main": "bin/",
   "scripts": {
-    "build": "gulp"
+    "build": "gulp",
+    "test": "node tests/*.js",
+    "ci": "node tests/*.js"
   },
   "repository": {
     "type": "git",
@@ -28,8 +30,10 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
     "gulp-header": "^1.7.1",
     "gulp-rename": "^1.2.2",
-    "gulp-uglify": "^1.5.2"
+    "gulp-uglify": "^1.5.2",
+    "tape": "^4.4.0"
   }
 }

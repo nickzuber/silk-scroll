@@ -1,7 +1,8 @@
 
 var gulp = require('gulp');
 var uglify = require('gulp-uglify'); // minify build files
-var rename = require('gulp-rename'); // custom name for build files
+var rename = require('gulp-rename'); // custom name for build
+var browserify = require('gulp-browserify'); // compiles Needle module files
 var header = require('gulp-header'); // custom comment header on build files
 
 // Set banner for production file
@@ -15,6 +16,7 @@ var banner = ['/*!',
 // Contacat & compress javascript files
 gulp.task('dispatch', function(){
     gulp.src(['src/*.js'])
+    .pipe(browserify({}))
     .pipe(uglify())
     .pipe(rename({
         basename: 'silk-scroll',
