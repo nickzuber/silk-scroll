@@ -1,4 +1,4 @@
-# [silk-scroll.js](https://github.com/nickzuber/silk-scroll) 
+# [silk-scroll.js](https://github.com/nickzuber/silk-scroll) [![npm version](https://badge.fury.io/js/silk-scroll.svg)](https://badge.fury.io/js/silk-scroll)
 
 Needle is a standalone extensive data structure library in JavaScript.
 
