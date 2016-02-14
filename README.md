@@ -36,4 +36,4 @@ SilkScroll.active();
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2015 Nick Zuber
+Copyright (c) 2016 Nick Zuber
