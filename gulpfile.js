@@ -17,7 +17,7 @@ var banner = ['/*!',
 gulp.task('dispatch', function(){
     gulp.src(['src/*.js'])
     .pipe(browserify({}))
-    //.pipe(uglify())
+    .pipe(uglify())
     .pipe(rename({
         basename: 'silk-scroll',
         extname: '.min.js'
