@@ -1,3 +1,9 @@
+
+'use strict';
+
+var jQuery = require('jquery');
+var $ = jQuery;
+
 /*
  *
  * TERMS OF USE - EASING EQUATIONS
