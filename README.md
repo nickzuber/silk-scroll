@@ -11,7 +11,7 @@ Installing silk-scroll on the client side is simple. Just download the [minified
 <script src="path/to/silk-scroll.min.js"></script>
 ```
 
-If you'd like to install Needle on the server side using [npm](https://www.npmjs.com/package/silk-scroll), it's as easy as:
+If you'd like to install [silk-scroll on the server side using npm](https://www.npmjs.com/package/silk-scroll), it's as easy as:
 ```
 npm install silk-scroll --save
 ```
