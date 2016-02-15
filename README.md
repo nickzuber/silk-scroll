@@ -4,9 +4,9 @@
 Cross browser responsive smooth scrolling for entire web applications.
 
 ## Demo
-[**See silk-scroll in action**](http://rabin-karpal-tunnel.tumblr.com/)
+[View example site](http://rabin-karpal-tunnel.tumblr.com/)
 
-While there is no formal demo site, if you want to see silk-scroll in action feel free to [check out my Tumblr page where I'm currently using silk-scroll](http://rabin-karpal-tunnel.tumblr.com/).
+While there currently is no formal demo site, if you want to see silk-scroll in action feel free to [check out my Tumblr page where I'm currently using silk-scroll](http://rabin-karpal-tunnel.tumblr.com/).
 
 ## Installation 
 
