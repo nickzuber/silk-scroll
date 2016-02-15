@@ -3,6 +3,11 @@
 
 Cross browser responsive smooth scrolling for entire web applications.
 
+## Demo
+[**See silk-scroll in action**](http://rabin-karpal-tunnel.tumblr.com/)
+
+While there is no formal demo site, if you want to see silk-scroll in action feel free to [check out my Tumblr page where I'm currently using silk-scroll](http://rabin-karpal-tunnel.tumblr.com/).
+
 ## Installation 
 
 Installing silk-scroll on the client side is simple. Just download the [minified file of the latest version](https://github.com/nickzuber/silk-scroll/blob/master/bin/silk-scroll.min.js) and include it in your webpage:

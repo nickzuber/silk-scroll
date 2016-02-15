@@ -1,6 +1,6 @@
 {
   "name": "silk-scroll",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "Cross browser responsive smooth scrolling for entire web applications.",
   "main": "src/silk-scroll.js",
   "scripts": {
